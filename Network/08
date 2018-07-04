@@ -1,0 +1,16 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    08                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: mlewis-l <lerman.maggiel@gmail.com>        +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/07/01 11:36:23 by mlewis-l          #+#    #+#              #
+#    Updated: 2018/07/01 13:01:52 by mlewis-l         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#The provider is AWS (Amazon Web Services). 
+#I found this by typing the following command:
+dig @8.8.8.8 +nssearch slash16.org
+

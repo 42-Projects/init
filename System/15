@@ -1,0 +1,15 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    15                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: mlewis-l <lerman.maggiel@gmail.com>        +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/07/03 17:31:02 by mlewis-l          #+#    #+#              #
+#    Updated: 2018/07/03 17:32:19 by mlewis-l         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+kill -s KILL $(jobs -p)
+
+#'jobs -p' gets running processes and the 'kill -s KILL' tell comp to kill the p#rocesses

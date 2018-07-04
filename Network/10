@@ -1,0 +1,16 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    10                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: mlewis-l <lerman.maggiel@gmail.com>        +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/07/01 12:32:18 by mlewis-l          #+#    #+#              #
+#    Updated: 2018/07/01 12:34:07 by mlewis-l         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+traceroute slash16.org
+
+#traceroute command shows you the path that a  packet of information takes from your
+# computer to the one specified

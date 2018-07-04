@@ -1,0 +1,19 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    11                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: mlewis-l <lerman.maggiel@gmail.com>        +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/07/01 12:36:20 by mlewis-l          #+#    #+#              #
+#    Updated: 2018/07/01 12:38:39 by mlewis-l         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#the answer is:
+#nat (10.90.1.11)
+
+#the command I used is:
+traceroute slash16.org | grep nat
+
+#I added 'grep nat' to cut out the irrelevent information; nat stands for network address translastion.

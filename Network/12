@@ -1,0 +1,16 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    12                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: mlewis-l <lerman.maggiel@gmail.com>        +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/07/01 12:42:41 by mlewis-l          #+#    #+#              #
+#    Updated: 2018/07/01 12:44:55 by mlewis-l         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+ping -c5 10.51.1.253
+
+#ping checks the connection and the c flag is an exit command (5 signalling how
+#many times to ping before exiting)

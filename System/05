@@ -1,0 +1,15 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    05                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: mlewis-l <lerman.maggiel@gmail.com>        +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/07/03 17:02:39 by mlewis-l          #+#    #+#              #
+#    Updated: 2018/07/03 17:16:16 by mlewis-l         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#sudo service ssh status
+#if it's not installed yet, then you need to do the following:
+# sudo apt-get install openssh-server openssh-client
